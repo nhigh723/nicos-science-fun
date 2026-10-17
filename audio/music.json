@@ -33,5 +33,10 @@
   "file": "music/dino.mp3",
   "loopStart": 1.0,
   "loopEnd": 74.846145
+ },
+ "airport": {
+  "file": "music/airport.mp3",
+  "loopStart": 1.0,
+  "loopEnd": 92.428571
  }
 }
