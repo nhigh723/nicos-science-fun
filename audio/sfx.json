@@ -131,6 +131,24 @@
 "crack": {
 "file": "sfx/crack.mp3"
 },
+"sticker": {
+"file": "sfx/sticker.mp3"
+},
+"stickerIn": {
+"file": "sfx/stickerIn.mp3"
+},
+"hint": {
+"file": "sfx/hint.mp3"
+},
+"yourturn": {
+"file": "sfx/yourturn.mp3"
+},
+"yay": {
+"file": "sfx/yay.mp3"
+},
+"streak": {
+"file": "sfx/streak.mp3"
+},
 "dump": {
 "file": "sfx/dump.mp3"
 },

@@ -2,36 +2,36 @@
  "hub": {
   "file": "music/hub.mp3",
   "loopStart": 1.0,
-  "loopEnd": 35.285714
+  "loopEnd": 69.571429
  },
  "science": {
   "file": "music/science.mp3",
   "loopStart": 1.0,
-  "loopEnd": 39.4
+  "loopEnd": 77.8
  },
  "build": {
   "file": "music/build.mp3",
   "loopStart": 1.0,
-  "loopEnd": 33.0
+  "loopEnd": 65.0
  },
  "sports": {
   "file": "music/sports.mp3",
   "loopStart": 1.0,
-  "loopEnd": 34.103447
+  "loopEnd": 67.206893
  },
  "kitchen": {
   "file": "music/kitchen.mp3",
   "loopStart": 1.0,
-  "loopEnd": 34.103447
+  "loopEnd": 67.206893
  },
  "animals": {
   "file": "music/animals.mp3",
   "loopStart": 1.0,
-  "loopEnd": 46.714286
+  "loopEnd": 92.428571
  },
  "dino": {
   "file": "music/dino.mp3",
   "loopStart": 1.0,
-  "loopEnd": 37.923084
+  "loopEnd": 74.846145
  }
 }
