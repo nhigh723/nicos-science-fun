@@ -143,6 +143,18 @@
 "yourturn": {
 "file": "sfx/yourturn.mp3"
 },
+"jet": {
+"file": "sfx/jet.mp3"
+},
+"dingdong": {
+"file": "sfx/dingdong.mp3"
+},
+"beltclunk": {
+"file": "sfx/beltclunk.mp3"
+},
+"pumpclick": {
+"file": "sfx/pumpclick.mp3"
+},
 "yay": {
 "file": "sfx/yay.mp3"
 },
@@ -190,6 +202,26 @@
 },
 "whisk": {
 "file": "sfx/whisk.mp3",
+"loopStart": 0.25,
+"loopEnd": 2.25
+},
+"prop": {
+"file": "sfx/prop.mp3",
+"loopStart": 0.25,
+"loopEnd": 1.25
+},
+"heli": {
+"file": "sfx/heli.mp3",
+"loopStart": 0.25,
+"loopEnd": 1.25
+},
+"belt": {
+"file": "sfx/belt.mp3",
+"loopStart": 0.25,
+"loopEnd": 2.25
+},
+"fuel": {
+"file": "sfx/fuel.mp3",
 "loopStart": 0.25,
 "loopEnd": 2.25
 },
