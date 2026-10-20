@@ -155,6 +155,15 @@
 "pumpclick": {
 "file": "sfx/pumpclick.mp3"
 },
+"rev": {
+"file": "sfx/rev.mp3"
+},
+"crush": {
+"file": "sfx/crush.mp3"
+},
+"crowd": {
+"file": "sfx/crowd.mp3"
+},
 "yay": {
 "file": "sfx/yay.mp3"
 },
@@ -224,6 +233,11 @@
 "file": "sfx/fuel.mp3",
 "loopStart": 0.25,
 "loopEnd": 2.25
+},
+"rumble": {
+"file": "sfx/rumble.mp3",
+"loopStart": 0.25,
+"loopEnd": 1.25
 },
 "purr": {
 "file": "sfx/purr.mp3",

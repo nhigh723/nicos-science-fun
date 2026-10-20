@@ -38,5 +38,10 @@
   "file": "music/airport.mp3",
   "loopStart": 1.0,
   "loopEnd": 92.428571
+ },
+ "monster": {
+  "file": "music/monster.mp3",
+  "loopStart": 1.0,
+  "loopEnd": 59.181814
  }
 }
