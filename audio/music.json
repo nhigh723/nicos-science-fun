@@ -53,5 +53,15 @@
   "file": "music/ocean.mp3",
   "loopStart": 1.0,
   "loopEnd": 102.05263
+ },
+ "space": {
+  "file": "music/space.mp3",
+  "loopStart": 1.0,
+  "loopEnd": 92.428571
+ },
+ "train": {
+  "file": "music/train.mp3",
+  "loopStart": 1.0,
+  "loopEnd": 69.571429
  }
 }
