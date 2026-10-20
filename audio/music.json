@@ -43,5 +43,15 @@
   "file": "music/monster.mp3",
   "loopStart": 1.0,
   "loopEnd": 59.181814
+ },
+ "garden": {
+  "file": "music/garden.mp3",
+  "loopStart": 1.0,
+  "loopEnd": 81.0
+ },
+ "ocean": {
+  "file": "music/ocean.mp3",
+  "loopStart": 1.0,
+  "loopEnd": 102.05263
  }
 }
