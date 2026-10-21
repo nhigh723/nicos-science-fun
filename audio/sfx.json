@@ -179,6 +179,39 @@
 "fizz": {
 "file": "sfx/fizz.mp3"
 },
+"eggTap": {
+"file": "sfx/eggTap.mp3"
+},
+"eggCrack1": {
+"file": "sfx/eggCrack1.mp3"
+},
+"eggCrack2": {
+"file": "sfx/eggCrack2.mp3"
+},
+"eggCrack3": {
+"file": "sfx/eggCrack3.mp3"
+},
+"eggBurst": {
+"file": "sfx/eggBurst.mp3"
+},
+"toolHammer": {
+"file": "sfx/toolHammer.mp3"
+},
+"toolRock": {
+"file": "sfx/toolRock.mp3"
+},
+"toolSpoon": {
+"file": "sfx/toolSpoon.mp3"
+},
+"toolPan": {
+"file": "sfx/toolPan.mp3"
+},
+"toolMallet": {
+"file": "sfx/toolMallet.mp3"
+},
+"toolSqueak": {
+"file": "sfx/toolSqueak.mp3"
+},
 "engine": {
 "file": "sfx/engine.mp3",
 "loopStart": 0.25,
